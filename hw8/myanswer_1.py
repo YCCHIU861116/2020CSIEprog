@@ -18,14 +18,14 @@ def Origin(Field,Mine,pos):
 	if Field[0][0] == 0:
 		FindMine(Field,Mine,pos+1)
 	elif Field[0][0] == 1:
-		for i in range(4):
+		for i in range(3,-1,-1):
 			Mine[1+i//2][1+i%2] = 1
 			FindMine(Field,Mine,pos+1)
 			Mine[1+i//2][1+i%2] = 0
 	elif Field[0][0] == 2:
-		for i in range(4):
+		for i in range(3,-1,-1):
 			Mine[1+i//2][1+i%2] = 1
-			for j in range(i+1,4):
+			for j in range(3,i,-1):
 				Mine[1+j//2][1+j%2] = 1
 				FindMine(Field,Mine,pos+1)
 				Mine[1+j//2][1+j%2] = 0
@@ -48,7 +48,7 @@ def Upperline(Field,Mine,pos):
 	if Minenum == 0:
 		FindMine(Field,Mine,pos+1)
 	elif Minenum == 1:
-		for i in range(2):
+		for i in range(1,-1,-1):
 			Mine[1+i%2][y+1]= 1
 			FindMine(Field,Mine,pos+1)
 			Mine[1+i%2][y+1]= 0
@@ -64,7 +64,7 @@ def Leftline(Field,Mine,pos):
 	if Minenum == 0:
 		FindMine(Field,Mine,pos+1)
 	elif Minenum == 1:
-		for i in range(2):
+		for i in range(1,-1,-1):
 			Mine[x+1][1+i%2]= 1
 			FindMine(Field,Mine,pos+1)
 			Mine[x+1][1+i%2]= 0
