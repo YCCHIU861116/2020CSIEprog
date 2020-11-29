@@ -1,0 +1,8 @@
+4
+Wang Alex A123456789 80000 40
+Lin Sasha B123456789 79999 30
+Wang Amy C123456789 0 10
+Wang LisA C123456789 0 7
+2
+select lastname firstname ID where salary > 1000
+select firstname salary where lastname == Wang

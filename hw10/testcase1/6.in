@@ -1,0 +1,13 @@
+1
+SMITH MARY T85I7M7XOV 100000 62
+10
+select firstname where firstname == MARY
+select firstname firstname firstname firstname firstname firstname firstname firstname where firstname == MARY
+select lastname where lastname == JOHNSON
+select ID age ID age salary salary salary salary where ID != T85I7M7XOV
+select salary salary salary salary ID age ID age where ID == T85I7M7XOV
+select lastname where salary < 8000
+select firstname where salary > 8000
+select age age age where age == 62
+select age age where age < 63
+select age age age age where age > 61

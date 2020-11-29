@@ -1,0 +1,5 @@
+2
+SMITH HELEN JDSUVONTOH 40000 64
+SMITH NANCY WVVAMR6NTM 90000 39
+1
+select firstname age ID where age > 64

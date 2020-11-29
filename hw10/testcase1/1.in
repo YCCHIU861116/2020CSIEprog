@@ -1,0 +1,8 @@
+4
+Liu Pangfeng A123456789 80000 40
+Wu Janet B123456789 79999 30
+Liu Kevin C123456789 0 10
+Liu Eric C123456789 0 7
+2
+select lastname firstname ID where salary > 1000
+select firstname lastname salary lastname where lastname == Liu

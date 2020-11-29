@@ -1,0 +1,101 @@
+33
+SMITH DONNA 16WXPOGGH2 50000 29
+SMITH JESSICA JD54CBDJZA 20000 20
+JOHNSON LINDA WA2QKVJBW2 100000 3
+WILLIAMS AMANDA KEKOT73RVM 10000 14
+BROWN ANNA IEAMUCSP35 80000 49
+JOHNSON SHIRLEY HE08YMLO8S 100000 38
+JOHNSON JENNIFER HDUKG7LBRJ 10000 71
+BROWN AMY GJ4W11ODSR 80000 24
+JOHNSON RUTH HSWVKOYZSX 90000 79
+JONES PAMELA PBL2ZMS6RS 70000 62
+WILLIAMS ANGELA N9RA0KHCW4 10000 25
+WILLIAMS PATRICIA EXHY8KFCTI 60000 35
+BROWN KATHLEEN VRJT2MGY7N 100000 80
+BROWN MARY MT4ZTZUAGI 60000 63
+JOHNSON NANCY 0S2ZAMD31E 90000 11
+JOHNSON RUTH UK942O5BUJ 70000 13
+JOHNSON BETTY V7LW9LPLI4 50000 52
+SMITH JENNIFER N9NJJ3A4TL 90000 6
+SMITH DEBORAH HM6NE1FB02 0 80
+JONES PAMELA CCMBK6FF47 40000 50
+JOHNSON CAROL BBC8A0OGSP 20000 39
+SMITH JENNIFER AHAWVBQF4G 0 34
+SMITH CAROLYN 8QG9R7DT9O 0 79
+JOHNSON KAREN BUSFAKUMSZ 90000 38
+SMITH ANNA 3XJ7RIM87Y 30000 32
+JOHNSON STEPHANIE 467GE70KA7 20000 68
+JOHNSON ELIZABETH V3M77DTT89 60000 6
+SMITH ELIZABETH LA3NFDH3CU 60000 58
+JONES KATHLEEN 7JSK2ATMX2 10000 46
+WILLIAMS SHARON OPLPJ7EWEE 70000 70
+BROWN AMANDA LV6RQJ446Q 0 74
+BROWN CAROLYN QHZKS6K1SJ 100000 29
+BROWN SUSAN L0N8QT96MJ 20000 8
+66
+select salary firstname where lastname == SMITH
+select firstname firstname where salary < 50000
+select lastname age where salary == 60000
+select ID firstname where salary < 100000
+select age ID where age < 38
+select ID firstname where ID == 3XJ7RIM87Y
+select salary age where ID != L0N8QT96MJ
+select ID firstname where age == 29
+select ID salary where age == 39
+select ID firstname where lastname == SMITH
+select firstname age where age == 79
+select salary firstname where firstname != ANNA
+select lastname firstname where firstname == RUTH
+select firstname salary where age > 14
+select salary salary where lastname != JOHNSON
+select salary salary where ID == 0S2ZAMD31E
+select ID firstname where ID == V7LW9LPLI4
+select ID lastname where firstname == ELIZABETH
+select lastname age where ID == OPLPJ7EWEE
+select lastname firstname where age > 14
+select ID lastname where salary < 0
+select ID salary where salary > 20000
+select lastname age where lastname == SMITH
+select salary firstname where age == 70
+select salary firstname where firstname != AMY
+select age firstname where lastname != BROWN
+select lastname ID where salary > 10000
+select salary age where age == 11
+select firstname age where lastname != JOHNSON
+select ID salary where ID != PBL2ZMS6RS
+select age firstname where salary > 100000
+select ID ID where age > 79
+select ID lastname where lastname == SMITH
+select ID salary where age == 13
+select salary lastname where age > 52
+select ID firstname where lastname == SMITH
+select firstname lastname where salary < 50000
+select salary firstname where age == 71
+select lastname age where lastname == SMITH
+select ID salary where ID == KEKOT73RVM
+select firstname lastname where firstname == RUTH
+select salary salary where ID == V3M77DTT89
+select age lastname where ID == MT4ZTZUAGI
+select firstname age where age == 71
+select salary age where ID == HM6NE1FB02
+select salary ID where lastname == WILLIAMS
+select firstname salary where ID == HM6NE1FB02
+select firstname firstname where ID == CCMBK6FF47
+select age firstname where ID != 16WXPOGGH2
+select firstname ID where ID != 0S2ZAMD31E
+select salary lastname where ID == BBC8A0OGSP
+select age salary where age > 34
+select salary firstname where firstname != JESSICA
+select salary age where firstname != CAROL
+select age age where ID != VRJT2MGY7N
+select firstname age where ID != WA2QKVJBW2
+select salary age where age == 52
+select age ID where firstname == DEBORAH
+select lastname firstname where ID != AHAWVBQF4G
+select firstname age where firstname != PAMELA
+select age salary where ID == V7LW9LPLI4
+select firstname firstname where lastname == SMITH
+select salary salary where ID == IEAMUCSP35
+select firstname ID where firstname != SHIRLEY
+select age age where age > 50
+select age salary where ID != 16WXPOGGH2

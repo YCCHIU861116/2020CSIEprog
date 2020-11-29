@@ -1,0 +1,147 @@
+44
+TAYLOR JENNIFER MGNI53WUM3 100000 25
+JOHNSON JENNIFER CK1ZMCVF3Y 20000 17
+RODRIGUEZ PATRICIA HKDEU147XV 60000 4
+MILLER PATRICIA QT20G1O6XI 80000 41
+JACKSON ELIZABETH 3CKQZBHVKW 90000 79
+WILLIAMS MARY O18MGLLY24 60000 70
+JONES MARY 3RK3H7WQCA 10000 58
+ROBINSON JENNIFER LK7J8V7DKL 70000 22
+SMITH MARY C194V41E0Y 0 69
+ROBINSON JENNIFER KKCRL2TD6H 90000 45
+WHITE MARIA 5XZWZWWCZT 50000 21
+HARRIS BARBARA NP0B0XKO9K 0 38
+MARTIN MARIA AJYSMPLU44 50000 77
+MOORE ELIZABETH LCF72PUKO3 0 38
+MARTIN BARBARA 0CYZHZNB08 40000 13
+ROBINSON PATRICIA 64UTROQ8MJ 100000 22
+JOHNSON ELIZABETH WX5P4T5H55 0 80
+ROBINSON MARIA LE81R9JDZF 60000 51
+WILSON MARY OQ8M3HLG6N 10000 36
+MARTINEZ MARY 0J6ML77AX8 100000 11
+ANDERSON JENNIFER MPFR0Z8D3J 40000 30
+WILSON BARBARA SINTJWDNOA 70000 47
+HARRIS PATRICIA 1879K124G1 20000 33
+MOORE ELIZABETH 34ZQCJWYFV 10000 34
+THOMPSON PATRICIA HMW8QUMGB4 20000 60
+MILLER ELIZABETH II28C35NTZ 10000 2
+WHITE JENNIFER EPO440MYJC 90000 58
+SMITH ELIZABETH 209NX1ZU07 60000 26
+ANDERSON MARIA G49BQALPH0 40000 46
+MOORE BARBARA HQ3PI9J255 50000 18
+WILLIAMS ELIZABETH VP88VBNA86 40000 52
+SMITH JENNIFER 6D0YSWSDDJ 40000 35
+JOHNSON MARY JKF15UB9S6 20000 34
+ANDERSON LINDA GIADJ0S402 20000 38
+SMITH BARBARA XSIL9SAED3 80000 2
+ANDERSON MARIA APGH80NZ1J 90000 14
+DAVIS BARBARA X0BOKPVDDY 20000 68
+ROBINSON JENNIFER 6FAUH64KCA 70000 16
+BROWN BARBARA 6MICUXG7J6 60000 13
+WHITE LINDA 1VAQHHTZGF 0 67
+JONES BARBARA Z7K7GDBR9J 100000 53
+JONES BARBARA S25R14UST1 60000 12
+JOHNSON JENNIFER 7QLJUN4RBI 90000 31
+JACKSON MARIA S13P7T35C9 90000 66
+101
+select salary age firstname lastname firstname salary ID salary where firstname != PATRICIA
+select firstname age ID firstname lastname lastname age ID where salary > 20000
+select lastname ID salary lastname age lastname lastname firstname where lastname != MOORE
+select lastname age salary salary age salary lastname lastname where age == 16
+select firstname ID lastname salary age age firstname ID where salary < 100000
+select salary age firstname ID lastname firstname salary firstname where salary > 0
+select ID salary lastname age age firstname ID salary where salary > 60000
+select salary ID ID age firstname firstname age age where ID == EPO440MYJC
+select salary ID age ID salary age ID age where ID != 3RK3H7WQCA
+select lastname age age salary salary age age ID where lastname != ROBINSON
+select ID lastname lastname lastname firstname age lastname salary where firstname == BARBARA
+select firstname ID firstname lastname ID firstname ID ID where salary == 40000
+select ID age firstname ID lastname salary salary salary where lastname != JONES
+select lastname firstname firstname ID lastname ID lastname ID where ID != XSIL9SAED3
+select firstname salary salary firstname firstname age age salary where ID == 1879K124G1
+select firstname lastname age salary salary salary ID ID where lastname != WHITE
+select ID age salary ID age age lastname salary where salary < 50000
+select age salary ID age salary firstname salary lastname where firstname != BARBARA
+select ID age salary lastname salary salary ID age where firstname == MARY
+select firstname age firstname age salary firstname salary ID where firstname != MARIA
+select salary ID ID firstname salary salary lastname firstname where lastname != ROBINSON
+select age firstname salary firstname lastname lastname age age where firstname != ELIZABETH
+select age ID ID ID lastname age ID age where age > 13
+select salary ID ID ID salary age firstname ID where salary == 70000
+select lastname age firstname salary salary lastname salary salary where firstname == MARIA
+select lastname age firstname age age salary age firstname where firstname == JENNIFER
+select age lastname lastname age ID age firstname firstname where age < 79
+select age age salary firstname age age lastname lastname where ID == S13P7T35C9
+select salary ID firstname lastname ID salary salary lastname where lastname != ROBINSON
+select firstname salary salary firstname salary lastname age firstname where lastname != MARTIN
+select lastname firstname ID lastname lastname lastname salary salary where salary > 60000
+select age salary age salary age age firstname ID where firstname == ELIZABETH
+select age lastname ID salary age ID age firstname where firstname == JENNIFER
+select lastname firstname lastname lastname firstname age age lastname where lastname == ROBINSON
+select salary lastname lastname firstname age salary ID ID where salary < 20000
+select age ID ID age lastname age age firstname where lastname == WILLIAMS
+select lastname salary firstname age salary lastname salary age where salary == 20000
+select salary firstname firstname age ID salary age firstname where salary < 60000
+select lastname firstname lastname firstname age lastname salary ID where ID == MPFR0Z8D3J
+select salary age age age age salary lastname age where firstname != JENNIFER
+select ID salary firstname firstname age firstname salary age where age < 25
+select lastname firstname age salary age lastname lastname age where age < 41
+select lastname lastname age age firstname ID salary lastname where firstname == ELIZABETH
+select salary firstname age ID age age age lastname where age < 13
+select ID age lastname lastname salary ID lastname salary where salary > 20000
+select lastname firstname ID firstname age age ID lastname where firstname != BARBARA
+select salary ID age age salary age age ID where age > 34
+select age lastname age firstname firstname lastname age age where ID != SINTJWDNOA
+select ID lastname age lastname lastname age ID age where firstname == JENNIFER
+select ID salary age age salary ID age salary where age == 38
+select firstname age salary ID lastname lastname firstname ID where salary < 20000
+select age salary salary lastname ID age salary firstname where lastname == ROBINSON
+select ID salary salary firstname lastname age ID lastname where firstname == PATRICIA
+select lastname ID ID salary salary lastname salary firstname where firstname == BARBARA
+select salary firstname lastname age lastname salary firstname salary where salary < 10000
+select salary age salary lastname ID salary firstname ID where firstname == JENNIFER
+select firstname lastname salary ID ID firstname age lastname where lastname == MARTIN
+select salary lastname age salary age firstname firstname firstname where age == 70
+select salary salary age age lastname firstname age salary where lastname == TAYLOR
+select ID age lastname salary firstname ID firstname salary where firstname != ELIZABETH
+select firstname firstname ID lastname ID firstname firstname lastname where firstname == JENNIFER
+select firstname age firstname firstname ID salary salary salary where age == 45
+select age age lastname age lastname ID lastname ID where salary < 80000
+select firstname salary salary age salary ID ID ID where firstname != MARIA
+select firstname age ID age lastname salary ID salary where firstname != ELIZABETH
+select age age lastname age lastname firstname ID ID where ID == X0BOKPVDDY
+select lastname lastname ID salary age firstname lastname firstname where firstname != MARY
+select age age firstname age salary firstname salary firstname where age > 38
+select age age ID age firstname age lastname ID where lastname != SMITH
+select age ID salary ID salary ID age lastname where lastname == MARTIN
+select lastname lastname salary firstname firstname ID age lastname where age == 16
+select ID firstname firstname salary salary firstname age ID where lastname != WILLIAMS
+select salary age ID lastname ID firstname lastname salary where lastname == ANDERSON
+select ID ID salary lastname salary salary age lastname where age == 22
+select firstname salary salary lastname lastname firstname salary lastname where ID == HQ3PI9J255
+select salary firstname lastname age lastname lastname firstname firstname where lastname != MOORE
+select age lastname salary age lastname salary age age where lastname == ANDERSON
+select firstname lastname firstname firstname lastname age salary lastname where ID != XSIL9SAED3
+select lastname lastname firstname ID lastname ID age lastname where lastname != WILSON
+select lastname ID salary firstname firstname age ID salary where salary < 100000
+select lastname ID ID firstname age firstname lastname lastname where lastname != SMITH
+select ID ID firstname ID salary age salary ID where firstname == MARIA
+select salary salary salary salary salary firstname ID firstname where salary == 90000
+select salary lastname age lastname ID ID firstname salary where ID == XSIL9SAED3
+select age lastname lastname salary age firstname salary ID where firstname == MARIA
+select firstname salary salary lastname lastname salary ID age where firstname != MARY
+select age ID firstname ID firstname salary salary lastname where age == 51
+select age salary firstname age firstname firstname salary firstname where salary < 0
+select lastname salary age salary ID salary firstname ID where age > 58
+select salary lastname lastname lastname age salary ID firstname where ID == II28C35NTZ
+select lastname lastname age firstname age firstname salary lastname where firstname == PATRICIA
+select age lastname age age ID lastname age firstname where lastname != BROWN
+select lastname age firstname firstname firstname age salary firstname where ID == 5XZWZWWCZT
+select age age salary firstname firstname lastname age age where firstname == BARBARA
+select age ID ID salary firstname age ID salary where lastname == JOHNSON
+select ID ID age age firstname firstname firstname age where lastname != JOHNSON
+select age firstname age age salary age ID salary where salary > 40000
+select ID ID firstname age ID firstname age ID where ID == HQ3PI9J255
+select lastname age salary salary firstname lastname age lastname where firstname != MARIA
+select ID ID age salary salary firstname ID salary where ID == II28C35NTZ
+select firstname lastname firstname age firstname age ID lastname where age > 34
